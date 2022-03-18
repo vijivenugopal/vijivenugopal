@@ -13,12 +13,25 @@ This is a repository that I have created to showcase skills, share projects and 
 * Code : [Book Recommendations using Collaborative filtering.ipynb](https://github.com/vijivenugopal/Book-Recommendations-using-Collaborative-filtering)
 
 **House Price prediction using Regression model** - A model to predict the value of a given house in King county using various regression models. Identified the best price that a client can sell their house utilizing machine learning. Three regression models - multiple linear regression, Decision Tree Regression and Random Forest Regression models were compared to find the best fitting model. The dataset https://www.kaggle.com/harlfoxem/housesalesprediction is taken from Kaggle and contains house sale prices for King County for houses sold between May 2014 and May 2015.
+* Code: [House Price Prediction (King County).ipynb](https://github.com/vijivenugopal/Regression-model_-House-Price-Prediction)
 
 
 ## Study Projects ##
 **European Soccer Regression analysis using Scikit-learn** - The objective of this project is to predict the overall rating of each player using Decision Tree Regressor model. This project uses the open dataset from Kaggle . This European Soccer Database has more than 25,000 matches and more than 10,000 players for European professional soccer seasons from 2008 to 2016.
+* Code: [European Soccer Regression Analysis using scikit-learn.ipynb](https://github.com/vijivenugopal/European-Soccer-Regression-Analysis-using-scikit-learn)
 
 **Natural Language Processing of Movie Reviews using nltk** - In the movie_reviews dataset, there are 2000 text files, each of them is a review of a movie, and they are already split in a neg folder for the negative reviews and a pos folder for the positive reviews. Each review is tokenized to split the text into words. Then a bag-of-words model is built to infer the sentiment in each text .From the bag-of-words model we can build features to be used by a classifier to separate the negative and positive features. The classifier used is the Naive Bayes Classifier.
+* Code: [Natural Language Processing of Movie Reviews using nltk.ipynb](https://github.com/vijivenugopal/Natural-Language-Processing-of-Movie-Reviews-using-nltk)
+
+**Gaussian Generative models for handwritten digit classification**
+* Code: [generative_mnist.ipynb](https://github.com/vijivenugopal/Gaussian-generative-models-for-handwritten-digit-classification)
+
+**Bootstrap analysis**
+[Bootstrap analysis](https://github.com/vijivenugopal/Bootstrap-analysis-of-Semmelweis-handwashing-data)
+
+**Nobel Prize Winners**
+[A visual history of Nobel Prize winners](https://github.com/vijivenugopal/A-visual-history-of-Nobel-Prize-winners)
+
 
 ## Certificates ##
 
