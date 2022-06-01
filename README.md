@@ -46,6 +46,12 @@ This is a repository that I have created to showcase skills, share projects and 
 - Big Data Analytics Using Spark
 https://courses.edx.org/certificates/06c4ea7a793c46f4bc6f3f904729fe24
 
+- INTERMEDIATE PYTHON (DATACAMP)
+https://www.datacamp.com/statement-of-accomplishment/course/63a8e38cafe08c274056f58714f6494811f9686d
+
+- DATA MANIPULATION WITH PANDAS
+https://www.datacamp.com/statement-of-accomplishment/course/3d03f93857368637c21de1bc65b110866f3a1ff2
+
 - STATISTICAL THINKING IN PYTHON (DATACAMP)
 https://www.datacamp.com/statement-of-accomplishment/course/b50e65658b960c7e8722b31d67881cff31e8cb7a
 
@@ -57,6 +63,10 @@ https://www.datacamp.com/statement-of-accomplishment/course/255bc0811963122c22de
 
 - PYTHON DATA SCIENCE TOOLBOX
 https://www.datacamp.com/statement-of-accomplishment/course/f234a199475f1cb8c8cce4d3bfb7d9299efb11f3
+
+- INTRODUCTION TO SQL
+https://www.datacamp.com/statement-of-accomplishment/course/e02905f493fbcc39d6863c5c555b5fd7e4071a92
+
 
 - Data Science R Basics https://www.datacamp.com/statement-of-accomplishment/course/96fd09ca3faa95f85196cf27ed4708eb73462cf4 
 
