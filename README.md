@@ -67,6 +67,18 @@ https://www.datacamp.com/statement-of-accomplishment/course/f234a199475f1cb8c8cc
 - INTRODUCTION TO SQL
 https://www.datacamp.com/statement-of-accomplishment/course/e02905f493fbcc39d6863c5c555b5fd7e4071a92
 
+- JOINING DATA IN SQL
+https://www.datacamp.com/statement-of-accomplishment/course/c2491452b23cef7cf011f5169c5cb66e6cdf9956
+
+- SUPERVISED LEARNING WITH SCIKIT-LEARN
+https://www.datacamp.com/statement-of-accomplishment/course/4671c918c0856a99926c1ea90cc3971aff354253
+
+- UNSUPERVISED LEARNING IN PYTHON
+https://www.datacamp.com/statement-of-accomplishment/course/775db3ed315baa8a9e1f103fc0751c155a96ff01
+
+- MACHINE LEARNING WITH TREE-BASED MODELS IN PYTHON
+https://www.datacamp.com/statement-of-accomplishment/course/2b374e7b9fc1818c6ebcfa80fde68dad30248ec0
+
 
 - Data Science R Basics https://www.datacamp.com/statement-of-accomplishment/course/96fd09ca3faa95f85196cf27ed4708eb73462cf4 
 
