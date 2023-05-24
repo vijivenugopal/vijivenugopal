@@ -15,7 +15,7 @@ This is a repository that I have created to showcase skills, share projects and 
 **House Price prediction using Regression model** - A model to predict the value of a given house in King county using various regression models. Identified the best price that a client can sell their house utilizing machine learning. Three regression models - multiple linear regression, Decision Tree Regression and Random Forest Regression models were compared to find the best fitting model. The dataset https://www.kaggle.com/harlfoxem/housesalesprediction is taken from Kaggle and contains house sale prices for King County for houses sold between May 2014 and May 2015.
 * Code: [House Price Prediction (King County).ipynb](https://github.com/vijivenugopal/Regression-model_-House-Price-Prediction)
 
-**HR analytics dashboard using PowerBI:** - HR dataset is analyzed to uncover the factors that lead to employee attrition in a fictional company. Power Query Editor is used to investigate and clean the data to find out attrition rates among different age groups. Used DAX to understand the percent attrition. Finally, all the findings were used to create a business dashboard to answer questions for the HR department.
+**HR analytics dashboard using PowerBI:** - HR dataset is analyzed to uncover the factors that lead to employee attrition in a fictional company. Power Query Editor is used to investigate and clean the data to find out attrition rates among different age groups. Used DAX to understand the percent attrition. Finally, all the findings were used to create a business dashboard to answer questions for the HR department.(https://github.com/vijivenugopal/HR_analytics_dashboard_PowerBI.git)
 
 
 
